@@ -1,0 +1,36 @@
+[33mcommit 675528d074d07414f11d2df67d40f613760d43a1[m[33m ([m[1;36mHEAD -> [m[1;32mmb[m[33m, [m[1;31morigin/mb[m[33m)[m
+Merge: f0804af 1192039
+Author: ezekohon <ezequiel.kohon@smiledirectclub.com>
+Date:   Wed Mar 9 16:37:13 2022 -0300
+
+    Merge branch 'mb' of https://github.com/carlos-aparicio-sdc/Git_Work into mb
+
+[33mcommit f0804afdc371315038ee7bd995b483b2ca69e677[m
+Author: alexis-martinez-globant <alexis.martinez@smiledirectclub.com>
+Date:   Wed Mar 9 15:59:50 2022 -0300
+
+    commiteando 2
+
+[33mcommit 1192039ebbdec2b0e4d3daed3175968e7f81b49d[m
+Author: alexis-martinez-globant <alexis.martinez@smiledirectclub.com>
+Date:   Wed Mar 9 16:31:25 2022 -0300
+
+    anotherone bit the commit
+
+[33mcommit d11619fa13254c1c71022bcbed3539ded6adac0a[m
+Author: alexis-martinez-globant <alexis.martinez@smiledirectclub.com>
+Date:   Wed Mar 9 15:59:50 2022 -0300
+
+    commiteando 2
+
+[33mcommit 3a5b39d591767e0eabe453bc6dc6546b71ace95f[m
+Author: ezekohon <ezequiel.kohon@smiledirectclub.com>
+Date:   Wed Mar 9 15:50:07 2022 -0300
+
+    cambio de Eze
+
+[33mcommit 7b0fbd055b878e112b98a3579cf1ad15f0a5089e[m
+Author: Carlos Aparicio <carlos.aparicio@globant.com>
+Date:   Wed Mar 9 15:30:48 2022 -0300
+
+    CXWCT-2144-fist-commit
